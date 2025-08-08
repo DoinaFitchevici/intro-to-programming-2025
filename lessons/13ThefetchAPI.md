@@ -164,7 +164,7 @@ Understanding checks will be provided when the lesson is generated.
 
 ## Subsections
 
-### Lesson 13
+### Introduction
 
 Go through **both** resources (Odin **and** Scrimba) for this topic as they will help you gain a more clear understanding of this topic.
 
@@ -178,6 +178,20 @@ Remember to please go to each link in this list and read through the content on 
 - **[Scrimba - JS Deep Dive - Async JS - Promises with async-await](https://v2.scrimba.com/javascript-deep-dive-c0a/~02r)**
 - **[Scrimba  - JS Deep Dive - Async JS - Catch Errors with async-await](https://v2.scrimba.com/javascript-deep-dive-c0a/~02s)**
 - **[Scrimba - Introduction to ES6+ - Async & Await](https://v2.scrimba.com/introduction-to-es6-c0t/~0u)**
+
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
 
 ### The fetch API
 
@@ -218,6 +232,20 @@ Now watch these two videos on Fetch:
 1. [Learn Fetch API in 6 minutes](https://www.youtube.com/watch?v=cuEtnrL9-H0&t=2s)
 2. [GET data from API & display in HTML with JS](https://www.youtube.com/watch?v=zUcc4vW-jsI)
 
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
+
 ### The async and await keywords
 
 The async keyword is applied to a function. On its own, the async keyword transforms the function so that when the function is invoked, the return value will be wrapped in a promise.
@@ -255,7 +283,6 @@ Now watch these two videos on Async/Await:
 
 1. [The Async Await Episode](https://www.youtube.com/watch?v=vn3tm0quoqE&t=413s)
 2. [JS Async/Await Simply Explained](https://www.youtube.com/watch?v=wKY4-WMmbZw)
-
 
 **Video URL:** No video available
 
