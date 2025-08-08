@@ -445,7 +445,7 @@ Understanding checks will be provided when the lesson is generated.
 
 ## Subsections
 
-### Lesson 4
+### Introduction
 
 - [V2 Scrimba - JS Deep Dive - Objects & Maps](https://v2.scrimba.com/javascript-deep-dive-c0a/~01d)
 - **NOTE: Watch only the rest of the videos in the playlist (the last 3 you were instructed to skip last week).**
@@ -518,6 +518,20 @@ Arrays have many methods and one category of methods it has are iterative which 
 
 Examples would be the [forEach()](https://javascript.info/array-methods#iterate-foreach), [map()](https://javascript.info/array-methods#map), [filter()](https://javascript.info/array-methods#filter), and others.
 
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
+
 ### The forEach() method
 
 The forEach() method accepts a function as an argument. The function that you pass to the method is referred to as a **callback** function. 
@@ -532,6 +546,20 @@ numbers.forEach(function(num) {
 // This will print each number in the array.
 ```
 
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
+
 ### The map() method
 
 The map() will run the callback function for each of the items in the array. The map() method uses the callback function to create the items for a new array. The map() method will return a new array of the same number of elements as the original array and the forEach method will not return anything.
@@ -543,6 +571,20 @@ const squared = numbers.map(function(num) {
 });
 // squared is now [1, 4, 9, 16]
 ```
+
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
 
 ### The filter() method
 
@@ -557,7 +599,6 @@ const evenNumbers = numbers.filter(function(num) {
 ```
 
 **Note:**  There are many more of these type of methods, but do not worry about knowing how to use all of them, starting with a few is good enough.
-
 
 **Video URL:** No video available
 
