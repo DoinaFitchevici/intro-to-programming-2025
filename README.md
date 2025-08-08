@@ -1,10 +1,10 @@
-# intro-to-programming-2025
+# Intro To Programming 2025
 
 No description available
 
 ## Course Overview
 
-This course provides comprehensive learning materials for intro-to-programming-2025.
+This course provides comprehensive learning materials for Intro To Programming 2025.
 
 ## Learning Objectives
 
