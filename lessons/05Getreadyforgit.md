@@ -74,7 +74,7 @@ Make sure your code gets copied to GitHub by adding changes to staging, committi
 
 **_By this point, you should have a local folder on your machine that has a README.md and index.html file, and your lesson-5 branch of your GitHub repository should also have your README.md and index.html files.  You can find your lesson-5 branch by clicking on the main button in your GitHub repository.  You should see the list of all your branches (main and lesson-5) there.  See image below for example:_**
 
-![branch drop down in GitHub repository](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/5e3d47bcdc1ad5b6a72a75cc5694f459ce0b5024/mainBranch.png?raw=true)
+![branch drop down in GitHub repository](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2024/5e3d47bcdc1ad5b6a72a75cc5694f459ce0b5024/mainBranch.png?raw=true)
 
 ### Submit Assignment
 Now let's make sure that lesson branch will be reviewed.
@@ -110,7 +110,7 @@ Understanding checks will be provided when the lesson is generated.
 
 ## Subsections
 
-### Lesson 5
+### Introduction
 
 # Get ready for git!
 
@@ -130,7 +130,22 @@ Remember to please go to each link in this list and read through the content on 
 
 ***
 
-## _**STRETCH GOAL (OPTIONAL): Intro to Algorithms**_
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
+
+### _**STRETCH GOAL (OPTIONAL): Intro to Algorithms**_
+
 - **[Scrimba](https://v2.scrimba.com/javascript-interview-challenges-c02c/~00) - JavaScript Interview Challenges**
 - Watch and practice the first 5 videos (with solutions). Try to solve each algorithm before you watch the solution. The more you practice the more comfortable you will you get, which is good preparation for job interviewing.
 
@@ -147,8 +162,6 @@ An algorithm is like a secret recipe that lays out a series of steps. If you sti
 1. Read this [article](https://www.theodinproject.com/lessons/javascript-a-very-brief-intro-to-cs) on Odin. 
 2. Read this [article](https://www.geeksforgeeks.org/introduction-to-algorithms/).  We won’t be getting into the types of algorithms but it’s a good overview of how algorithms are part of a developer’s daily life. 
 3. Once again, same info, but [a video](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) from Khan Academy.
-
-
 
 **Video URL:** No video available
 
