@@ -168,7 +168,7 @@ Understanding checks will be provided when the lesson is generated.
 
 ## Subsections
 
-### Lesson 12
+### Introduction
 
 Go through **both** resources (Odin **and** Scrimba) for this topic as they will help you gain a more clear understanding of this topic.
 
@@ -179,7 +179,21 @@ Remember to please go to each link in this list and read through the content on 
 - **[Scrimba - Introduction to ES6+ - Promises](https://v2.scrimba.com/introduction-to-es6-c0t/~0q)**
 - **[Scrimba - Introduction to ES6+ - Challenge: Promises](https://v2.scrimba.com/introduction-to-es6-c0t/~0r)**
 
-## Synchronous vs. Asynchronous code
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
+
+### Synchronous vs. Asynchronous code
 
 *Synchronous code* executes one code instruction at a time, in the order that the instructions are given. *Asynchronous code* executes multiple instructions simultaneously, and the order in which the instructions are completed isn't known. 
 
@@ -203,7 +217,21 @@ Now, setTimeout is asynchronous so it runs in the background, allowing code afte
 
 [Watch this video on Async vs Sync](https://www.youtube.com/watch?v=wYRw8f-wrco&t=253s)
 
-## Promises
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
+
+### Promises
 
 When it comes to handling asynchronous code, the go-to tool is something called a **promise**. This nifty object can handle async tasks and gives you a bunch of methods to neatly pluck out a single result.
 
@@ -269,7 +297,7 @@ myPromise.then((result) => {
 
 The **`catch()`** method in JavaScript is like the safety net for promises. Just like how try/catch blocks work, if the **`catch()`** method doesn't throw an error itself, the function calling it won't know that something went wrong. In simple terms, the promise attached to **`catch()`** only becomes rejected if **`catch()`** encounters an error or returns a promise that also gets rejected. Otherwise, it resolves as if everything went smoothly.
 
-![promise catch flow](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/41a41459613b5c8e6cc3f9171feebfc1837b0c8e/Screenshot%25202023-09-24%2520at%252010.19.29%2520PM.png)
+![promise catch flow](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2024/41a41459613b5c8e6cc3f9171feebfc1837b0c8e/Screenshot%25202023-09-24%2520at%252010.19.29%2520PM.png)
 
 1. Read [this article about Promises](https://javascript.info/promise-basics)
 2. Read [this second article about Promises](https://dmitripavlutin.com/what-is-javascript-promise/)
@@ -278,7 +306,6 @@ Watch these two short videos on JavaScript Promises:
 
 1. [JS Promise in 100 Seconds](https://www.youtube.com/watch?v=RvYYCGs45L4)
 2. [Async JS: Promises](https://www.youtube.com/watch?v=slIJj-zbs_M)
-
 
 **Video URL:** No video available
 
