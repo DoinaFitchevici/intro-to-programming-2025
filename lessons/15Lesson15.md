@@ -77,24 +77,24 @@ You can record your presentation in any of these three ways:
  <p>If you don't have a youtube account, <a href="https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform%3DDesktop">create one by following these instructions</a>.</p>
  <p>You will know you're logged in if you have an initial/icon/other in the top right corner (where the M in the brown circle is on this screenshot):</p>
  
- ![User logged in to youtube account](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.20%E2%80%AFPM.png?raw=true)
+ ![User logged in to youtube account](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2025/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.20%E2%80%AFPM.png?raw=true)
 
  <h4>2. Click `+ Create` in the top right and select `Upload video`</h4>
  
- ![Create menu expanded](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.27%E2%80%AFPM.png?raw=true)
+ ![Create menu expanded](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2025/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.27%E2%80%AFPM.png?raw=true)
 
  <h4>3. In the Upload videos window that appears, click the black `Select files` button</h4>
  <p>You'll need to select the file of your recording you have saved on your computer.</p>
  
- ![Upload videos modal](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.35%E2%80%AFPM.png?raw=true)
+ ![Upload videos modal](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2025/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.35%E2%80%AFPM.png?raw=true)
 
 <h4>4. The fle title will be the default video title.  You can change this to include your name and "Intro to Programming Final Project Presentation"</h4>
 
-![Edit Video Details title](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.17%E2%80%AFPM.png?raw=true)
+![Edit Video Details title](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2025/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.17%E2%80%AFPM.png?raw=true)
 
 <h4>5. Scroll down under the title; select "No, it's not made for kids" and click on the `Show more` gray button to make further setting changes</h4>
 
-![Adjust video settings](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.30%E2%80%AFPM.png?raw=true)
+![Adjust video settings](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2025/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.30%E2%80%AFPM.png?raw=true)
 
 <h4>6. You'll want to be sure the following options for some of the sections that appear after click `Show more` are set to the following:</h4>
 
@@ -110,11 +110,11 @@ You can record your presentation in any of these three ways:
        
  - [ ] Once you are on the Visibility section of the upload, select "Unlisted" as seen here
 
-![Select Unlisted](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.04.52%E2%80%AFPM.png?raw=true)
+![Select Unlisted](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2025/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.04.52%E2%80%AFPM.png?raw=true)
 
  - [ ] Lastly, click `Save` and copy your video link as seen here
 
-![Save and copy](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.05.09%E2%80%AFPM.png?raw=true)
+![Save and copy](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2025/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.05.09%E2%80%AFPM.png?raw=true)
  
 </details>
 

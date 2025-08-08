@@ -1,6 +1,6 @@
 # Pre-Work Instructions
 
-## Welcome to intro-to-programming-2025!
+## Welcome to Intro To Programming 2025!
 
 Before beginning this course, please complete the following pre-work to ensure you're prepared for the learning journey ahead.
 

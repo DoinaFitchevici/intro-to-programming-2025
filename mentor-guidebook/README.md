@@ -2,7 +2,7 @@
 
 ## Course Information
 
-**Course:** intro-to-programming-2025
+**Course:** Intro To Programming 2025
 **Total Lessons:** 15
 **Course Status:** pending
 

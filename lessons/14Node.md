@@ -164,11 +164,25 @@ Understanding checks will be provided when the lesson is generated.
 
 ## Subsections
 
-### Lesson 14
+### Introduction
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
 
 - **[The Odin Project – What is Node?](https://www.theodinproject.com/lessons/nodejs-introduction-what-is-nodejs)**
+
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
 
 ### Node
 
@@ -183,7 +197,6 @@ Now watch these videos on Node and NPM:
 1. [Node Explained in 2 minutes](https://www.youtube.com/watch?v=ATCs2BY-acA&t=77s)
 2. [NPM and why we need it](https://www.youtube.com/watch?v=P3aKRdUyr0s)
 3. [NPM package.json and npm init](https://www.youtube.com/watch?v=5cXf3XlZ4Zk&t=10s)
-
 
 **Video URL:** No video available
 
