@@ -67,8 +67,6 @@ Understanding checks will be provided when the lesson is generated.
 
 ## Subsections
 
-### Lesson 6
-
 ### Getting Deeper into Git
 
 Read through the first two links which help explain git branching and merges, the workflow you'll be using throughout class.  Then watch the video which helps demonstrate that workflow from the context of team development (multiple people working on the same code base).  Finally, take a look at the Coursera course with "Module 4 - Collaboration" being your primary focus.  You do not need to complete the full course, but you're welcome to look at it at your convenience throughout the remainder of the class. 
@@ -84,15 +82,43 @@ _**You’ll need to click the link above or click the link where the video would
 
 **NOTE:** Coursera may indicate you can only access this lesson with a free 7-day trial.  You can avoid this by clicking on "Enroll for Free" the clicking the small "Audit this course" link at the bottom (see image below...)  If you already have your own personal Coursera account, you won't be offered the audit option so please reach out to your Cohort Leader for assistance.  
 
-![7-day free trial modal](https://github.com/Code-the-Dream-School/intro-to-programming-2024/blob/b3d6133ab2aa15b3232ffdcd36ac8f5d4bf47d97/Audit.png?raw=true) 
+![7-day free trial modal](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2024/b3d6133ab2aa15b3232ffdcd36ac8f5d4bf47d97/Audit.png?raw=true) 
 
 ***
 
-### If you did not start/opt to work on last week's stretch goal of learning about Algorithms, you can start look into this week!  If you did start (or even finish it!) feel free to continue practicing with algorithms after your deeper look at git this week.  Here is the content from last week's lesson copied to this week's lesson so you do not have to switch back and forth: 
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
+
+### If you did not start/opt to work on last week's stretch goal of learning about Algorithms, you can start look into this week!  If you did start (or even finish it!) feel free to continue practicing with algorithms after your deeper look at git this week.  Here is the content from last week's lesson copied to this week's lesson so you do not have to switch back and forth:
 
 ## _**STRETCH GOAL (OPTIONAL): Intro to Algorithms**_
 - **[Scrimba](https://v2.scrimba.com/javascript-interview-challenges-c02c/~00) - JavaScript Interview Challenges**
 - Watch and practice the first 5 videos (with solutions). Try to solve each algorithm before you watch the solution. The more you practice the more comfortable you will you get, which is good preparation for job interviewing.
+
+**Video URL:** No video available
+
+**Code Examples:**
+
+No code examples available
+
+**External Links:**
+
+No external links available
+
+**Quizzes:**
+
+No quizzes available
 
 ### Algorithms
 
@@ -109,7 +135,6 @@ An algorithm is like a secret recipe that lays out a series of steps. If you sti
 3. Once again, same info, but [a video](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms) from Khan Academy.
 
 _**You can always search for algorithm problem practice and/or keep working with and practicing the Interview Challenges from Scrimba at the top of this section.  If you didn't complete the practice exercises at the bottom of your Lesson 4 replit you can revisit those too!**_
-
 
 **Video URL:** No video available
 
